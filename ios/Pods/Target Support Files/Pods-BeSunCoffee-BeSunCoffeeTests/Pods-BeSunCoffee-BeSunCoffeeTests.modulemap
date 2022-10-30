@@ -1,0 +1,6 @@
+module Pods_BeSunCoffee_BeSunCoffeeTests {
+  umbrella header "Pods-BeSunCoffee-BeSunCoffeeTests-umbrella.h"
+
+  export *
+  module * { export * }
+}
